@@ -1,10 +1,9 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Good luck the days
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
+운이 좋은 날들에 대한 블로그
 
 
